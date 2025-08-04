@@ -20,6 +20,6 @@ A large-scale gravitational particle simulation (400 000+ particles) in 3D space
 
 
 ## Preview
-black-hole like structure forming naturally at 400 000 particles.
+black-hole like structure forming at 400 000 particles.
 <img width="1221" height="892" alt="image" src="https://github.com/user-attachments/assets/b65be2d0-9eb8-48a2-839f-b84dab17c027" />
 
