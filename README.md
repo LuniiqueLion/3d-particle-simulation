@@ -1,4 +1,4 @@
-# DEscription
+# Description
 
 A large-scale gravitational particle simulation (400 000+ particles) in 3D space using the Barnes-Hut approximation. This project demonstrates spatial partitioning with octrees for optimizing N-body simulations.
 
