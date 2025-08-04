@@ -18,6 +18,12 @@ A large-scale gravitational particle simulation (400 000+ particles) in 3D space
 
 - Simulates 400,000+ particles with significant optimization over O(n²) algorithms
 
+## Controls
+
+- Mouse scroll: Zoom
+- arrow keys + D + Q: Rotate view
+- F : reset view
+
 
 ## Preview
 black-hole like structure forming at 400 000 particles.
